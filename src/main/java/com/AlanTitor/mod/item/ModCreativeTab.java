@@ -20,6 +20,7 @@ public class ModCreativeTab {
                         output.accept(ModItems.TESSERACT_ORE.get());
                         output.accept(ModBlocks.TESSERACT_BLOCK.get());
                         output.accept(ModItems.TESSERACT_STONE.get());
+                        output.accept(ModItems.METAL_DETECTOR.get());
                     }))
                     .build());
 
